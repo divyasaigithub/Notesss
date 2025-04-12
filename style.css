@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background-color: #121212;
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  textarea {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    resize: vertical;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background: #00b894;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .note {
+    background-color: #1e1e1e;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  
